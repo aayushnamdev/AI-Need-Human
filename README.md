@@ -27,6 +27,7 @@
 - ✅ Database schema designed
 - ✅ Live API documentation at `/docs`
 - ✅ Comprehensive technical architecture
+- ✅ High-fidelity Terminal Landing Page implemented
 - 🚧 MCP server implementation (Week 3)
 - 🚧 Solana payments (Week 4)
 - 📅 Public beta launch (Week 11)
@@ -146,12 +147,14 @@ See [backend/README.md](backend/README.md) for detailed setup.
 - **Blockchain:** Solana (SPL tokens)
 - **Deployment:** Railway
 
-### Frontend (Coming Soon)
-- **Framework:** Next.js 15 (App Router)
-- **Styling:** Tailwind CSS
-- **Auth:** Supabase Auth
-- **Blockchain:** Solana Web3.js
-- **Deployment:** Vercel
+### Frontend
+- **Framework:** Next.js 16 (App Router)
+- **Styling:** Tailwind CSS 4
+- **Icons:** Lucide React
+- **3D Graphics:** Spline (@splinetool/react-spline)
+- **Auth:** Supabase Auth (Coming Soon)
+- **Blockchain:** Solana Web3.js (Coming Soon)
+- **Deployment:** Vercel (Coming Soon)
 
 ---
 

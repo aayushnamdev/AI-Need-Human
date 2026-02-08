@@ -8,10 +8,11 @@
 
 **Target Audience**: Crypto investors looking for the next AI x Web3 project. They want to see:
 - ✅ Working demo with real tech (MCP, blockchain integration)
-- ✅ Professional UI/UX that looks production-ready
+- ✅ Professional Terminal UI/UX (implemented)
 - ✅ Buzzwords: "AI Agents", "Model Context Protocol", "Web3", "DeFi", "Autonomous Agents"
-- ✅ GitHub repo with clean code (shows technical credibility)
-- ✅ Demo video showing the full user journey
+- ✅ GitHub repo with clean code (pushed to main)
+- ✅ 3D Interactivity via Spline
+- ✅ Demo video showing the full user journey (Plan)
 
 **What This Means**:
 - Focus on the "wow factor" and demo-ability over robust production features
